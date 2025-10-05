@@ -1,5 +1,4 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,python,visualstudiocode,vuejs,django,pycharm,jupyternotebooks
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,python,visualstudiocode,vuejs,django,pycharm,jupyternotebooks
+django.md
 
 ### Django ###
 *.log
